@@ -33,3 +33,5 @@ Pantalla de inicio:
 Durante el juego:
 
 ![Jugando](capturas/jugando.PNG)
+
+![Jugando2](capturas/jugando2.PNG)
